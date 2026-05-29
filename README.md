@@ -24,8 +24,8 @@ A web-based real-time collaborative study platform where users create virtual st
 
 | Service | URL |
 |---|---|
-| Frontend | *(deploy to Vercel/Netlify)* |
-| Backend | *(deploy to Render/Railway)* |
+| Frontend | https://study-room-mauve.vercel.app |
+| Backend | https://studyroom-production-2a76.up.railway.app |
 | Database | MongoDB Atlas M0 (free tier) |
 
 ---
